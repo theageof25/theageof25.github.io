@@ -11,3 +11,5 @@ V ist der Held der Geschichte. Er hilft Ivy und Zerstört einiges. Er nimmt Rach
 
 Wie V zu sagen pflegte:
 > Remember, Remember the fifth of November
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Anti-scientology-protest.jpg"/>
