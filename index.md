@@ -8,3 +8,6 @@ V ist der Held der Geschichte. Er hilft Ivy und Zerstört einiges. Er nimmt Rach
 * Hilft
 * Kämpft
 * Usw.
+
+Wie V zu sagen pflegte:
+> Remember, Remember the fifth of November
